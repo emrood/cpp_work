@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1485483544 source:c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\emrood\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	"roodly.h"
+
+1485319748 c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\emrood\roodly.h
+
