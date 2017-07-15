@@ -1,0 +1,4 @@
+ID		Nom		Prenom		sexe		age
+1		Noel		Emmanuel	M		45
+2		Bretius		Mustaphat	F		72
+3		Jean-Baptiste	Kaitry		M		32
