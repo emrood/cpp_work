@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1485921046 source:c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\orientee_objet\main.cpp
+	<iostream>
+	<string>
+	"Personnages.h"
+	"arme.h"
+
+1486261191 c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\orientee_objet\personnages.h
+	<iostream>
+	<string>
+	"arme.h"
+
+1486261433 c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\orientee_objet\arme.h
+	<iostream>
+	<string>
+
+1486261017 source:c:\users\emmanuel\desktop\l1\programmation c++\project\emrood\orientee_objet\personnages.cpp
+	"Personnages.h"
+
